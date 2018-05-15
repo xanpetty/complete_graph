@@ -10,4 +10,4 @@ nodes = int(sys.argv[1])
 
 connections = complete_graph(nodes)
 
-print("number of nodes: " + str(nodes) + "\tnumber of connections " + str(connections))
+print("number of nodes: " + str(nodes) + "\nnumber of connections: " + str(connections))
